@@ -5,8 +5,12 @@ For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/REA
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) X, 0'
-* X.
+### a) MQTT command line, 5'
+* Install the mqtt CLI tool on the Raspberry Pi.
+* Connect to the broker test.mosquitto.org
+* Subscribe to the topic fhnw-iot/names
+* Send your name to the same topic.<br/>
+Open a second terminal
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
