@@ -13,7 +13,7 @@ For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/REA
 * (Open a second terminal)
 
 ### b) MQTT pub/sub clients, 5'
-* Install the mqtt Node.js library on the Raspberry Pi.
+* Install the [mqtt](https://github.com/mqttjs/MQTT.js) Node.js library on the Raspberry Pi.
 * Run the previous MQTT pub/sub client examples.
 * Use the _.js_ link on each page or check the main repo.
 * To run a Node.js program _my.js_, type: ```$ node my.js```
