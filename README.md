@@ -10,7 +10,7 @@ For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/REA
 * Connect to the broker test.mosquitto.org
 * Subscribe to the topic fhnw-iot/names
 * Send your name to the same topic.<br/>
-Open a second terminal
+(Open a second terminal)
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
