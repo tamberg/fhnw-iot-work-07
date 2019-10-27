@@ -5,14 +5,14 @@ For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/REA
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) MQTT command line, 5'
+### a) MQTT command line, 10'
 * Install the mqtt CLI tool on the Raspberry Pi.
 * Connect to the broker test.mosquitto.org
 * Subscribe to the topic fhnw-iot/names
 * Send your name to the same topic.
 * (Open a second terminal)
 
-### b) MQTT pub/sub clients, 5'
+### b) MQTT pub/sub clients, 10'
 * Install the [mqtt](https://github.com/mqttjs/MQTT.js) Node.js library on the Raspberry Pi.
 * Run the previous MQTT pub/sub client examples.
 * Use the _.js_ link on each page or check the main repo.
