@@ -23,8 +23,8 @@ For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/REA
     $ sudo apt-get update
     $ sudo apt-get install mosquitto # port 1883</pre>
 * Test with the ESP8266 publisher/subscriber clients.
-* Use the _.ino_ link on the page or check the main repo.
 * Check ```$SYS/broker/clients/connected``` on the Pi.
+* Which use cases would profit from a local broker?
 
 ### d) Data formats, 15'
 * Choose one of the [Grove sensors](https://github.com/tamberg/fhnw-iot/wiki/Grove-Sensors) listed in the Wiki.
